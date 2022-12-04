@@ -14,11 +14,6 @@
 - 📫 Como contactarme **bdelacruz654@gmail.com**
 - 📲 Whatsapp [Link directo](https://wa.link/fsmmx9)
 
-<h3 align="left">Redes Sociales:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100046518585291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bryan de la cruz" height="30" width="40" /></a>
-<a href="https://instagram.com/bryan_dlc99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryan_dlc99" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Front - End:</h3>
 <p align="left"> 
