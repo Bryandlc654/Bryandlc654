@@ -5,9 +5,9 @@
 
 <h3>Mis proyectos:</h3>
 
-- 🌐 Kano Web [Kano Web](https://bryandlc654.github.io/Web_Kano/)
+- 🌐 [Kano Web](https://bryandlc654.github.io/Web_Kano/)
 
-- 🌐 Proyecto Realizado [Tlamachtilo Web](https://bryandlc654.github.io/Tlamachtilo_Web/)
+- 🌐 [Tlamachtilo Web](https://bryandlc654.github.io/Tlamachtilo_Web/)
 
 <h3>Contactos:</h3>
 
