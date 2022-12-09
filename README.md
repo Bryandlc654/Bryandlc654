@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Bryan De La Cruz</h1>
 <h3 align="center">Diseño y Desarrollo Web Front - End</h3>
-<p align="center">Estudiante en Diseño y Desarrollo Web Front - End, apasionado por el autoaprendizaje, buen diseño y siempre ayudar a los demás.</p>
+<p align="center">Estudiante en Diseño y Desarrollo Web Front - End, apasionado por el autoaprendizaje y el buen diseño de mis proyectos.</p>
 
 
 <h3>Mis proyectos:</h3>
@@ -8,6 +8,12 @@
 - 🌐 [Kano Web](https://bryandlc654.github.io/Web_Kano/)
 
 - 🌐 [Tlamachtilo Web](https://bryandlc654.github.io/Tlamachtilo_Web/)
+
+<h3>Colaboración en proyectos:</h3>
+
+- 🌐 Tienda Virtual en Wordpress [CECA JJSM](https://cecajjsm.com/)
+
+- 🌐 Aula Virtual en Moodle [CECA JJSM](https://campusvirtual.cecajjsm.com/)
 
 <h3>Contactos:</h3>
 
