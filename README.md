@@ -40,12 +40,12 @@
 
 <h3 align="left">Conocimiento en:</h3>
 <p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+ <a href="" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" alt="photoshop" width="40" height="40"/> </a> 
+ <a href="" target="_blank" rel="noreferrer"> 
+<img src="https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Red.png" alt="photoshop" width="40" height="40"/> </a> 
+ 
+ 
 </p>
 
 <h3 align="left">Diseño Gráfico:</h3>
@@ -58,5 +58,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img src="https://seeklogo.com/images/C/coreldraw-2019-logo-73390B2962-seeklogo.com.png" alt="photoshop" width="40" height="40"/> </a> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" alt="photoshop" width="40" height="40"/> </a> 
 </p>
