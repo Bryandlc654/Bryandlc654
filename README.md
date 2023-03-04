@@ -58,4 +58,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img src="https://seeklogo.com/images/C/coreldraw-2019-logo-73390B2962-seeklogo.com.png" alt="photoshop" width="40" height="40"/> </a> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" alt="photoshop" width="40" height="40"/> </a> 
 </p>
