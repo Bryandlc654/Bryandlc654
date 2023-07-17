@@ -1,6 +1,11 @@
 <h1 align="center">Hola 👋, soy Bryan De La Cruz</h1>
 <h3 align="center">Diseño y Desarrollo Web Front - End</h3>
-<p align="center">Estudiante en Diseño y Desarrollo Web Front - End, apasionado por el autoaprendizaje y el buen diseño de mis proyectos.</p>
+<p align="center">Desarrollador web apasionado por el diseño y la 
+programación con habilidades analíticas excepcionales.
+Siempre dispuesto a trabajar bajo presión para alcanzar 
+objetivos y metas, priorizando tareas urgentes e importantes 
+para lograr resultados de calidad y eficiencia. Comprometido 
+con el aprendizaje continuo y la superación personal.</p>
 
 <h3>Portafolio:</h3>
 
