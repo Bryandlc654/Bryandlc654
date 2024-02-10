@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Bryan De La Cruz</h1>
-<h3 align="center">Diseño y Desarrollo Web Front - End</h3>
+<h3 align="center">Hola 👋, soy Bryan De La Cruz</h3>
+<h1 align="center">Diseño y Desarrollo Web Front - End</h1>
 <p align="center">Desarrollador web apasionado por el diseño y la 
 programación con habilidades analíticas excepcionales.
 Siempre dispuesto a trabajar bajo presión para alcanzar 
