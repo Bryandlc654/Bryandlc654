@@ -11,28 +11,6 @@ con el aprendizaje continuo y la superación personal.</p>
 
 - 🌐 Visita mi Portafolio [Aquí](https://bryandlc654.github.io/Bryandelacruz)
 
-<h3>Mis proyectos:</h3>
-
-- 🌐 [Kano Web](https://bryandlc654.github.io/Web_Kano/)
-
-- 🌐 [Tlamachtilo Web](https://bryandlc654.github.io/Tlamachtilo_Web/)
-
-- 🌐 [Artemuebles Web](https://bryandlc654.github.io/ArteMueble_Web/)
-
-- 🌐 [TravelerosPerú](https://bryandlc654.github.io/Traveleros_Peru/)
-
-<h3>Colaboración en proyectos:</h3>
-
-- 🌐 Tienda Virtual en Wordpress [CECA JJSM](https://cecajjsm.com/)
-
-- 🌐 Aula Virtual en Moodle [CECA JJSM](https://campusvirtual.cecajjsm.com/)
-
-<h3>Contactos:</h3>
-
-- 📫 Como contactarme **bdelacruz654@gmail.com**
-- 📲 Whatsapp [Link directo](https://wa.link/fsmmx9)
-
-
 <h3 align="left">Front - End:</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
